@@ -10,7 +10,14 @@
 Aways learning new things from everywhere
 
 ## Skills ##
-HTML, CSS, JavaScript, CitHub, VSCode
+
+```
+ - HTML
+ - CSS
+ - JavaScript
+ - CitHub
+ - VSCode
+```
 
 ## Code example ##
 ```function getCounter(v) {
