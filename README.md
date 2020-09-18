@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://turkool.github.io/rsschool-cv/cv
